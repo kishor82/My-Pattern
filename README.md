@@ -1,5 +1,5 @@
 
-# DiamondShape :
+# DiamondShape : #
 
 
 
@@ -26,7 +26,7 @@
 
 
 
-# Pattern1 :
+# Pattern1 : #
 
 
 
