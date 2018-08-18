@@ -1,3 +1,6 @@
+# Home :
+
+![Diamond](https://github.com/kishor82/My-Pattern/blob/master/img/3.png)
 
 # DiamondShape : 
 
